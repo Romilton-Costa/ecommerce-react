@@ -1,1 +1,1 @@
-# Projeto eccomerce
+# Projeto ecommerce
